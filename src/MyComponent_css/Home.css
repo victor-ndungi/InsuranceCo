@@ -1,0 +1,16 @@
+.hero {
+    background-image: url('https://example.com/hero-bg.jpg');
+    background-size: cover;
+    padding: 100px;
+    text-align: center;
+    color: #fff;
+}
+
+.cta-button {
+    background-color: #007BFF;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
